@@ -5,7 +5,7 @@ Designed for automation, ETL workflows, and data migration.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Extracts tabular data from PDF files using `pdfplumber`.
 - Converts extracted tables to CSV with `pandas`.
@@ -16,16 +16,15 @@ Designed for automation, ETL workflows, and data migration.
 
 ---
 
-## 🧱 Project Structure
+## Project Structure
 
 PdfDataImporter/
-│
 ├─ main.py
-├─ config.yaml
 ├─ requirements.txt
 ├─ test_data_import.pdf
 ├─ .gitignore
 └─ modules/
-  ├─ pdf_parser.py
-  ├─ csv_handler.py
-  └─ db_handler.py
+   ├─ pdf_parser.py
+   ├─ csv_handler.py
+   └─ db_handler.py
+
