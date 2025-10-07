@@ -14,17 +14,3 @@ Designed for automation, ETL workflows, and data migration.
 - Modular design for easy extension and maintenance.
 - Works on local machines or Raspberry Pi.
 
----
-
-## Project Structure
-
-PdfDataImporter/
-├─ main.py
-├─ requirements.txt
-├─ test_data_import.pdf
-├─ .gitignore
-└─ modules/
-   ├─ pdf_parser.py
-   ├─ csv_handler.py
-   └─ db_handler.py
-
