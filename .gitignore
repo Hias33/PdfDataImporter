@@ -1,0 +1,60 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+MANIFEST
+
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+*.env
+
+# Byte-compiled / cache
+*.log
+*.pot
+*.mo
+*.pyc
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# ---- PyCharm / JetBrains ----
+.idea/
+*.iml
+out/
+# Workspace files
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/dictionaries
+.idea/httpRequests/
+
+# ---- OS / System ----
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---- Project Specific ----
+data.csv
+sales.db
+config.yaml
+test_data_import.pdf

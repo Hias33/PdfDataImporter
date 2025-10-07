@@ -1,0 +1,5 @@
+pdfplumber
+pandas
+SQLAlchemy
+psycopg2-binary
+PyYAML
